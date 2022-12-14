@@ -48,7 +48,3 @@
 - The program maintains a list of processes running in the background
 - The program also checks and prints the number of background processes finished (if any) after a command is entered
 
-### Other files :
-- 1.c is the file that contains the main function
-- variables.h contains a few defined variables to be used across all .c files
-- makefile contains the commands to run all files together, running makefile will run the entire code

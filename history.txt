@@ -1,0 +1,20 @@
+sleep 100&
+jobs
+sig 1 6
+jobs
+sleep 100&
+sig 1 20
+jobs
+sig 1 19
+jobs
+sig 1 2
+jobs
+sig 1 9
+jobs
+sleep 100&
+kill -20 22958
+jobs
+bg 1
+sleep 10&
+jobs
+kill -20
